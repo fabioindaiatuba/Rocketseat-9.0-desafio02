@@ -1,0 +1,8 @@
+node_modules
+.vscode
+build
+npm-debug.log
+.env
+.DS_Store
+@EzeBernardine
+
