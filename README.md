@@ -6,7 +6,8 @@
 * Criada as funçoes de criar usuario e atualizar usuario logado:
   + POST /users
   + PUT /users
-* Login e gerar token jwt.
+* Rota de login e geração de token jwt:
+  + POST /sessions
 * Middleware para validar usuario logado.
 * Criada as funcoes de CRUD de alunos:
   + POST /students
