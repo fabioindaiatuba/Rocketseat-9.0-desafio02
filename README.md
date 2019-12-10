@@ -5,7 +5,7 @@
 ### Funções:
 * Criada as funçoes de criar usuario e atualizar usuario logado:
   + POST /users
-  + PUT /user
+  + PUT /users
 * Login e gerar token jwt.
 * Middleware para validar usuario logado.
 * Criada as funcoes de CRUD de alunos:
