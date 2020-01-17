@@ -12,3 +12,5 @@
 * Criada as funcoes de CRUD de alunos:
   + POST /students
   + PUT /students/:id
+
+#### Desafio finalizado.
